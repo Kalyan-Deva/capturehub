@@ -10,7 +10,7 @@ Start/stop automated screenshots, set intervals (Fast/Medium/Slow), view gallery
 **Installation & Run:**
 
 ```bash
-git clone https://github.com/<username>/capturehub.git
+git clone https://github.com/Kalyan-Deva/capturehub.git
 cd capturehub
 pip install -r requirements.txt
 python app.py
