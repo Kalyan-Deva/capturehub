@@ -1,0 +1,34 @@
+# Ignore all screenshots
+screenshots/
+# Ignore all log files
+*.log
+# Ignore temporary files
+*.tmp
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+# Ignore environment files
+.env
+venv/
+.env.local
+.env.*.local
+# Ignore node modules
+node_modules/
+# Ignore build directories
+dist/
+build/
+out/
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore coverage reports
+coverage/
+coverage.xml
+.nyc_output/
+# Ignore test result files
+test_results/
