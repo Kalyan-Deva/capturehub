@@ -1,0 +1,7 @@
+{
+    "min_interval": 15,
+    "max_interval": 30,
+    "save_dir": "screenshots",
+    "username": "admin",
+    "password": "password"
+}

@@ -11,7 +11,7 @@ DEFAULT_CONFIG = {
     "max_interval": 30,
     "save_dir": "screenshots",
     "username": "admin",
-    "password": "password"
+    "password": "Okayynopass"
 }
 
 if not os.path.exists(CONFIG_FILE):
